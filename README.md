@@ -9,3 +9,7 @@
 ```bash
 conda activate chatbot
 ```
+
+```bash
+ pip install -r requirements.txt
+```
